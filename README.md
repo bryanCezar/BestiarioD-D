@@ -5,6 +5,7 @@ ao baixar o projeto abra o terminal e faça as seguintes instalações:
 
 ### DEPENDÊNCIAS
 <hr>
+npm i <br>
 npm install axios @react-native-async-storage/async-storage
 
 ### BIOME
