@@ -9,7 +9,7 @@ export interface MonsterListResponse {
     results: MonsterListItem[];
 }
 
-export interface Monster{
+export interface Monster {
     index: string;
     name: string;
     size?: string;
@@ -17,7 +17,7 @@ export interface Monster{
     alignment?: string;
     hit_points?: number;
     challenge_rating?: number;
-    actions?:{
+    actions?: {
         name: string;
         desc: string;
     }[];
